@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\src\main\res"><file name="euro" path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\src\main\res\drawable-hdpi\euro.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_import_export" path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\src\main\res\drawable-hdpi\ic_action_import_export.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="swapper" path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\src\main\res\drawable-hdpi\swapper.png" qualifiers="hdpi-v4" type="drawable"/><file name="euro" path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\src\main\res\drawable-mdpi\euro.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_import_export" path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\src\main\res\drawable-mdpi\ic_action_import_export.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="swapper" path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\src\main\res\drawable-mdpi\swapper.png" qualifiers="mdpi-v4" type="drawable"/><file name="euro" path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\src\main\res\drawable-xhdpi\euro.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_import_export" path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\src\main\res\drawable-xhdpi\ic_action_import_export.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="swapper" path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\src\main\res\drawable-xhdpi\swapper.png" qualifiers="xhdpi-v4" type="drawable"/><file name="euro" path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\src\main\res\drawable-xxhdpi\euro.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_import_export" path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\src\main\res\drawable-xxhdpi\ic_action_import_export.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="swapper" path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\src\main\res\drawable-xxhdpi\swapper.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_main" path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="main" path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\src\main\res\values\strings.xml" qualifiers=""><string name="currency_title">Pick your currency</string><string name="no_connection_warning">Your device is not connected to Internet. Please make sure that you are connected to Internet and restart the app.</string><string name="value">Value:</string><string name="action_settings">Settings</string><string-array name="currencies_array">
+        <item>Euro</item>
+        <item>Japanese Yen</item>
+        <item>US Dollar</item>
+        <item>Bulgarian Lev</item>
+        <item>Czech Koruna</item>
+        <item>Danish krone</item>
+        <item>British Pound</item>
+        <item>Hungarian Forint</item>
+        <item>Lithuanian Litas</item>
+        <item>Polish Złoty</item>
+        <item>Romanian Leu</item>
+        <item>Swedish Krona</item>
+        <item>Swiss Franc</item>
+        <item>Norwegian Krone</item>
+        <item>Croatian Kuna</item>
+        <item>Russian Ruble</item>
+        <item>Turkish Lira</item>
+        <item>Australian Dollar</item>
+        <item>Brazilian real</item>
+        <item>Canadian Dollar</item>
+        <item>Chinese Yuan</item>
+        <item>Hong Kong Dollar</item>
+        <item>Indonesian Rupiah</item>
+        <item>Israeli New Sheqel</item>
+        <item>Indian Rupee</item>
+        <item>South Korean won</item>
+        <item>Mexican Peso</item>
+        <item>Malaysian Ringgit</item>
+        <item>New Zealand Dollar</item>
+        <item>Philippine Peso</item>
+        <item>Singapore Dollar</item>
+        <item>Thai Baht</item>
+        <item>South African Rand</item>
+    </string-array><string name="app_name">Lite Currency Converter</string><string name="currency2">Currency 2:</string><string name="currency1">Currency 1:</string><string name="Switch">Switch</string><string name="result">Result:</string></file><file path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style></file><file path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\src\main\res\values-de\strings.xml" qualifiers="de"><string name="app_name">Währungsumrechner Lite</string><string name="result">Ergebnis:</string><string name="value">Wert:</string><string name="action_settings">Einstellungen</string><string name="currency1">Erste Währung:</string><string name="currency_title">Währung auswählen</string><string name="currency2">Zweite Währung:</string><string-array name="currencies_array">
+        <item>Euro</item>
+        <item>Japanischer Yen</item>
+        <item>US-Dollar</item>
+        <item>Bulgarischer Lev</item>
+        <item>Tschechische Krone</item>
+        <item>Dänische Krone</item>
+        <item>Britischer Pfund</item>
+        <item>Ungarische Forint</item>
+        <item>Litauischer Litas</item>
+        <item>Polnische Złoty</item>
+        <item>Rumänischer Leu</item>
+        <item>Schwedische Krone</item>
+        <item>Schweizer Franken</item>
+        <item>Norwegische Krone</item>
+        <item>Kroatische Kuna</item>
+        <item>Russischer Rubel</item>
+        <item>Türkische Lira</item>
+        <item>Australischer Dollar</item>
+        <item>Brasilianischer Real</item>
+        <item>Kanadischer Dollar</item>
+        <item>Chinesischer Yuan</item>
+        <item>Hong Kong Dollar</item>
+        <item>Indonesische Rupie</item>
+        <item>Israelischer Neuer Shekel</item>
+        <item>Indische Rupie</item>
+        <item>Südkoreanischer Won</item>
+        <item>Mexikanischer Peso</item>
+        <item>Malaisischer Ringgit</item>
+        <item>Neuseeländischer Dollar</item>
+        <item>Philippinischer Peso</item>
+        <item>Singapur-Dollar</item>
+        <item>Thailändischer Baht</item>
+        <item>Südafrikanischer Rand</item>
+    </string-array><string name="Switch">Tauschen</string></file><file path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\src\main\res\values-sw720dp-land\dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\src\main\res\values-tr\strings.xml" qualifiers="tr"><string-array name="currencies_array">
+        <item>Euro</item>
+        <item>Japon Yeni</item>
+        <item>ABD Doları</item>
+        <item>Bulgar Levası</item>
+        <item>Çek Korunası</item>
+        <item>Danimarka Kronu</item>
+        <item>İngiliz Sterlini</item>
+        <item>Macar Forinti</item>
+        <item>Litvanya Litası</item>
+        <item>Polonya Zlotisi</item>
+        <item>Rumen leyi</item>
+        <item>İsveç Kronu</item>
+        <item>İsviçre Frankı</item>
+        <item>Norveç Kronu</item>
+        <item>Hırvat Kunası</item>
+        <item>Rus Rublesi</item>
+        <item>Türk Lirası</item>
+        <item>Avustralya Doları</item>
+        <item>Brezilya Reali</item>
+        <item>Kanada Doları</item>
+        <item>Çin Yuanı</item>
+        <item>Hong Kong Doları</item>
+        <item>Endonezya Rupiahı</item>
+        <item>İsrail Şekeli(Yeni)</item>
+        <item>Hindistan Rupisi</item>
+        <item>Güney Kore Wonu</item>
+        <item>Meksika Pesosu</item>
+        <item>Malezya Ringiti</item>
+        <item>Yeni Zelanda Doları</item>
+        <item>Filipin Pesosu</item>
+        <item>Singapur Doları</item>
+        <item>Tayland Bahtı</item>
+        <item>Güney Afrika Randı</item>
+    </string-array><string name="currency2">Para birimi 2:</string><string name="value">Değer:</string><string name="result">Sonuç:</string><string name="currency_title">Para birimini seçin.</string><string name="currency1">Para birimi 1:</string><string name="Switch">Değiştir</string><string name="action_settings">Ayarlar</string><string name="app_name">Döviz Kuru Çevirici</string></file><file path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file></source><source path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\build\generated\res\rs\debug"/><source path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\hozcan\Software Projects\Android\workspace\SmartConvert\app\src\debug\res"/></dataSet><mergedItems/></merger>

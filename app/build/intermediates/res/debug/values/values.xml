@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/hozcan/Software%20Projects/Android/workspace/SmartConvert/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="currencies_array">
+        <item>Euro</item>
+        <item>Japanese Yen</item>
+        <item>US Dollar</item>
+        <item>Bulgarian Lev</item>
+        <item>Czech Koruna</item>
+        <item>Danish krone</item>
+        <item>British Pound</item>
+        <item>Hungarian Forint</item>
+        <item>Lithuanian Litas</item>
+        <item>Polish Złoty</item>
+        <item>Romanian Leu</item>
+        <item>Swedish Krona</item>
+        <item>Swiss Franc</item>
+        <item>Norwegian Krone</item>
+        <item>Croatian Kuna</item>
+        <item>Russian Ruble</item>
+        <item>Turkish Lira</item>
+        <item>Australian Dollar</item>
+        <item>Brazilian real</item>
+        <item>Canadian Dollar</item>
+        <item>Chinese Yuan</item>
+        <item>Hong Kong Dollar</item>
+        <item>Indonesian Rupiah</item>
+        <item>Israeli New Sheqel</item>
+        <item>Indian Rupee</item>
+        <item>South Korean won</item>
+        <item>Mexican Peso</item>
+        <item>Malaysian Ringgit</item>
+        <item>New Zealand Dollar</item>
+        <item>Philippine Peso</item>
+        <item>Singapore Dollar</item>
+        <item>Thai Baht</item>
+        <item>South African Rand</item>
+    </string-array>
+    <!-- From: file:/C:/Users/hozcan/Software%20Projects/Android/workspace/SmartConvert/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/hozcan/Software%20Projects/Android/workspace/SmartConvert/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="Switch">Switch</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Lite Currency Converter</string>
+    <string name="currency1">Currency 1:</string>
+    <string name="currency2">Currency 2:</string>
+    <string name="currency_title">Pick your currency</string>
+    <string name="no_connection_warning">Your device is not connected to Internet. Please make sure that you are connected to Internet and restart the app.</string>
+    <string name="result">Result:</string>
+    <string name="value">Value:</string>
+    <!-- From: file:/C:/Users/hozcan/Software%20Projects/Android/workspace/SmartConvert/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

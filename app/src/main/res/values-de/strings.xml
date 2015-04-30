@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Währungsumrechner Lite</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="currency1">Erste Währung:</string>
+    <string name="currency2">Zweite Währung:</string>
+    <string name="currency_title">Währung auswählen</string>
+	
+    <string-array name="currencies_array">
+        <item>Euro</item>
+        <item>Japanischer Yen</item>
+        <item>US-Dollar</item>
+        <item>Bulgarischer Lev</item>
+        <item>Tschechische Krone</item>
+        <item>Dänische Krone</item>
+        <item>Britischer Pfund</item>
+        <item>Ungarische Forint</item>
+        <item>Litauischer Litas</item>
+        <item>Polnische Złoty</item>
+        <item>Rumänischer Leu</item>
+        <item>Schwedische Krone</item>
+        <item>Schweizer Franken</item>
+        <item>Norwegische Krone</item>
+        <item>Kroatische Kuna</item>
+        <item>Russischer Rubel</item>
+        <item>Türkische Lira</item>
+        <item>Australischer Dollar</item>
+        <item>Brasilianischer Real</item>
+        <item>Kanadischer Dollar</item>
+        <item>Chinesischer Yuan</item>
+        <item>Hong Kong Dollar</item>
+        <item>Indonesische Rupie</item>
+        <item>Israelischer Neuer Shekel</item>
+        <item>Indische Rupie</item>
+        <item>Südkoreanischer Won</item>
+        <item>Mexikanischer Peso</item>
+        <item>Malaisischer Ringgit</item>
+        <item>Neuseeländischer Dollar</item>
+        <item>Philippinischer Peso</item>
+        <item>Singapur-Dollar</item>
+        <item>Thailändischer Baht</item>
+        <item>Südafrikanischer Rand</item>
+    </string-array>
+        <string name="value">Wert:</string>
+        <string name="result">Ergebnis:</string>
+        <string name="Switch">Tauschen</string>
+    
+    
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/hozcan/Software%20Projects/Android/workspace/SmartConvert/app/src/main/res/values-tr/strings.xml -->
+    <eat-comment/>
+    <string-array name="currencies_array">
+        <item>Euro</item>
+        <item>Japon Yeni</item>
+        <item>ABD Doları</item>
+        <item>Bulgar Levası</item>
+        <item>Çek Korunası</item>
+        <item>Danimarka Kronu</item>
+        <item>İngiliz Sterlini</item>
+        <item>Macar Forinti</item>
+        <item>Litvanya Litası</item>
+        <item>Polonya Zlotisi</item>
+        <item>Rumen leyi</item>
+        <item>İsveç Kronu</item>
+        <item>İsviçre Frankı</item>
+        <item>Norveç Kronu</item>
+        <item>Hırvat Kunası</item>
+        <item>Rus Rublesi</item>
+        <item>Türk Lirası</item>
+        <item>Avustralya Doları</item>
+        <item>Brezilya Reali</item>
+        <item>Kanada Doları</item>
+        <item>Çin Yuanı</item>
+        <item>Hong Kong Doları</item>
+        <item>Endonezya Rupiahı</item>
+        <item>İsrail Şekeli(Yeni)</item>
+        <item>Hindistan Rupisi</item>
+        <item>Güney Kore Wonu</item>
+        <item>Meksika Pesosu</item>
+        <item>Malezya Ringiti</item>
+        <item>Yeni Zelanda Doları</item>
+        <item>Filipin Pesosu</item>
+        <item>Singapur Doları</item>
+        <item>Tayland Bahtı</item>
+        <item>Güney Afrika Randı</item>
+    </string-array>
+    <string name="Switch">Değiştir</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="app_name">Döviz Kuru Çevirici</string>
+    <string name="currency1">Para birimi 1:</string>
+    <string name="currency2">Para birimi 2:</string>
+    <string name="currency_title">Para birimini seçin.</string>
+    <string name="result">Sonuç:</string>
+    <string name="value">Değer:</string>
+</resources>
