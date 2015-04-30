@@ -1,4 +1,4 @@
-# SmartCurrencyConverte
+# SmartCurrencyConverter
 
 This is a simple currency converter app fo Android, which takes daily convcersation rates from European Central Bank
 in XML format, parses them and presents the result to the user.
